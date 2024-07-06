@@ -1,0 +1,24 @@
+gdown==3.10.3
+numpy==1.18.1
+torchsummary==1.5.1
+pandas==0.25.1
+h5py==2.10.0
+torch==1.3.1
+scikit_learn==0.22.2.post1
+open3d
+opencv-python
+sklearn
+tensorboard
+tensorboardX
+
+
+
+conda create -n GTSA python=3.8
+pip3 install --pre torch torchvision torchaudio --index-url https://download.pytorch.org/whl/nightly/cu118
+pip install pandas
+pip install h5py
+pip install -U scikit-learn
+pip install open3d
+pip install tensorboard
+pip install tensorboardX
+pip install numpy==1.23

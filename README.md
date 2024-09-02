@@ -2,7 +2,7 @@
 
 This is the official PyTorch implementation of our paper:
 
-> **[Progressive Classifier and Feature Extractor Adaptation for Unsupervised Domain Adaptation on Point Clouds](https://arxiv.org/abs/2303.01276)**
+> **[Progressive Classifier and Feature Extractor Adaptation for Unsupervised Domain Adaptation on Point Clouds](https://arxiv.org/abs/2311.16474)**
 > *In European Conference on Computer Vision (ECCV), 2024*
 
 
